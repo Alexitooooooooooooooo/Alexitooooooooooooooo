@@ -1,11 +1,11 @@
 # ¡Hola, soy Javier Pacheco! 👋
 
-[cite_start]Soy un **Full Stack Developer Jr** de **Barquisimeto, Venezuela**[cite: 3], apasionado por crear aplicaciones web escalables y soluciones eficientes. [cite_start]Actualmente formo parte del equipo de desarrollo en **JuegaEnLinea**[cite: 13, 16].
+Soy un **Full Stack Developer Jr** de **Barquisimeto, Venezuela**, apasionado por crear aplicaciones web escalables y soluciones eficientes.Actualmente formo parte del equipo de desarrollo en **JuegaEnLinea**.
 
 ### 🚀 Sobre mí
-🔭 Actualmente trabajo en el desarrollo y mantenimiento de plataformas de juegos usando **Laravel, Vue.js y Tailwind CSS**[cite: 17].
-🎰 Tengo experiencia desarrollando **juegos de casino (Slots)** y sistemas transaccionales seguros[cite: 33].
-🛠️ He construido proyectos como **Alexito Casino** (Laravel Sanctum + Nuxt) y mi portafolio personal en **Astro**[cite: 34, 36].
+🔭 Actualmente trabajo en el desarrollo y mantenimiento de plataformas de juegos usando **Laravel, Vue.js y Tailwind CSS**.
+🎰 Tengo experiencia desarrollando **juegos de casino (Slots)** y sistemas transaccionales seguros.
+🛠️ He construido proyectos como **Alexito Casino** (Laravel Sanctum + Nuxt) y mi portafolio personal en **Astro**.
 - 🎮 En mis tiempos libres: Monster Hunter, Valorant, Lol y Pokémon.
 
 ---
