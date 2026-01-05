@@ -3,10 +3,10 @@
 [cite_start]Soy un **Full Stack Developer Jr** de **Barquisimeto, Venezuela**[cite: 3], apasionado por crear aplicaciones web escalables y soluciones eficientes. [cite_start]Actualmente formo parte del equipo de desarrollo en **JuegaEnLinea**[cite: 13, 16].
 
 ### 🚀 Sobre mí
-- [cite_start]🔭 Actualmente trabajo en el desarrollo y mantenimiento de plataformas de juegos usando **Laravel, Vue.js y Tailwind CSS**[cite: 17].
-- [cite_start]🎰 Tengo experiencia desarrollando **juegos de casino (Slots)** y sistemas transaccionales seguros[cite: 33].
-- [cite_start]🛠️ He construido proyectos como **Alexito Casino** (Laravel Sanctum + Nuxt) y mi portafolio personal en **Astro**[cite: 34, 36].
-- 🎮 En mis tiempos libres: Monster Hunter, Valorant, Dead by Daylight y Pokémon.
+🔭 Actualmente trabajo en el desarrollo y mantenimiento de plataformas de juegos usando **Laravel, Vue.js y Tailwind CSS**[cite: 17].
+🎰 Tengo experiencia desarrollando **juegos de casino (Slots)** y sistemas transaccionales seguros[cite: 33].
+🛠️ He construido proyectos como **Alexito Casino** (Laravel Sanctum + Nuxt) y mi portafolio personal en **Astro**[cite: 34, 36].
+- 🎮 En mis tiempos libres: Monster Hunter, Valorant, Lol y Pokémon.
 
 ---
 
@@ -28,15 +28,6 @@ Aquí están las tecnologías que uso en mi día a día:
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-</p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexitooooooooooooooo&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Javier" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexitooooooooooooooo&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
